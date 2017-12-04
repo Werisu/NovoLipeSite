@@ -1,0 +1,18 @@
+/*
+
+Theme Name: LIPE - Língua Inglesa, Portuguêsa e Espanhola
+Description: Novo portal do Lipe idiomas
+Author: Wellysson Nascimento Rocha - Devulpis
+Version: 1.0
+
+*/
+
+.centered .pt{
+	width: 80%;
+    -webkit-filter: grayscale(80%);filter: grayscale(80%);
+    -webkit-transition-duration: .90s;
+}
+.centered .pt:hover{
+	-webkit-transition-duration: .90s;
+    -webkit-filter: blur(0.3px);filter: blur(0.3px);
+}
